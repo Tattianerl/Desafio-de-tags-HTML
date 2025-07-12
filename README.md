@@ -37,7 +37,7 @@ Feito com dedicação por **Tatiane Lima**
 
 ## 🌐 Acesse o projeto online
 
-🔗 [Clique aqui para ver o site publicado](https://tattianerl.github.io/desafio-tags-html/)
+🔗 [Clique aqui para ver o site publicado](https://tattianerl.github.io/Desafio-de-tags-HTML/)
 
 ---
 
